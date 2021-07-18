@@ -2,32 +2,23 @@
 
 SALVE SALVE
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying at CTISM.
 
-Estudando
+- 🌱 I’m currently learning SQL, Python and Java.
 
-- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on my growth like person and professional.
 
-Ensino Médio
+- 💬 Ask me about everything, I don't care.
 
-- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: guiifenst@gmail.com.
 
+- 😄 Pronouns: he/from him.
 
+-⚡ Fun fact: In this year I do eighteen😭, and I don't want to serve in the army.
 
-- 🤔 I’m looking for help with ...
+-😍 I don't want to graduate after high school.
 
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-Ele/dele
-
--⚡ Fun fact: ...
-
-17 anos. Nao quero servir no exercito
-
+-😓 I need to establish a routine as soon, as possible.
 
 <!--
 **gaxinim/gaxinim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
