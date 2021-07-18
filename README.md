@@ -1,6 +1,4 @@
-### Hi there 👋
-
-SALVE SALVE
+### SALVE SALVE 👋
 
 - 🔭 I’m currently studying at CTISM.
 
