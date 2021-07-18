@@ -1,5 +1,7 @@
 ### SALVE SALVE 👋
 
+Olá amg! Git era mais fácil que eu pensei o problema smp foi a procrastinação 
+
 - 🔭 I’m currently studying at CTISM.
 
 - 🌱 I’m currently learning SQL, Python and Java.
