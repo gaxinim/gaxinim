@@ -4,21 +4,17 @@ Olá amg! Git era mais fácil que eu pensei o problema smp foi a procrastinaçã
 
 - 🔭 I’m currently studying at CTISM.
 
-- 🌱 I’m currently learning SQL, Python and Java.
+- 🌱 I’m currently learning SQL and Python.
 
 - 👯 I’m looking to collaborate on my growth like person and professional.
-
-- 💬 Ask me about everything, I don't care.
 
 - 📫 How to reach me: guiifenst@gmail.com.
 
 - 😄 Pronouns: he/from him.
 
--⚡ Fun fact: In this year I do eighteen😭, and I don't want to serve in the army.
-
--😍 I don't want to graduate after high school.
-
 -😓 I need to establish a routine as soon, as possible.
+
+Tenho 18 anos, se for seguir na informática quero ir pra parte de desenvolvimento web ou de jogos ou as duas😳.
 
 New branch
 
