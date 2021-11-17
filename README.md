@@ -16,7 +16,6 @@ Olá amg! Git era mais fácil que eu pensei o problema smp foi a procrastinaçã
 
 Tenho 18 anos, se for seguir na informática quero ir pra parte de desenvolvimento web ou de jogos ou as duas😳.
 
-New branch
 
 <!--
 **gaxinim/gaxinim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
