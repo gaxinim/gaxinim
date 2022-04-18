@@ -1,8 +1,8 @@
-### OPA 👋
+### 👋👋👋👋
 
 Satisfação ! O problema smp é a procrastinação. 
 
-- 🔭 I’m currently studying at CTISM.
+- 🔭 I’m currently studying at CTISM, I'm in third year of high school.
 
 - 🌱 I’m currently learning SQL and Python.
 
@@ -16,3 +16,4 @@ Satisfação ! O problema smp é a procrastinação.
 
 - 📅 I have 18 years.
 
+- 💪 My goal is to get out of my comfort zone.
